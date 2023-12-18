@@ -1,0 +1,15 @@
+.card {
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: 1px
+}
+
+.card h3{
+  color: black;
+}
+.card p {
+  color: black;
+  opacity: .5;
+}
